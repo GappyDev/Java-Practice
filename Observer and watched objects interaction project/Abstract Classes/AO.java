@@ -1,5 +1,5 @@
 package com.company;
 
-public abstract class OA implements Watcher{
+public abstract class AO implements Watcher{
 
 }
